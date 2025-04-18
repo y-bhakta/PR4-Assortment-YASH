@@ -49,6 +49,6 @@ int main(){
         }
     }
     cout<<endl;
-    cout<<"The sum of Row "<<rIndex<<" is: "<<sum<<endl; 
+    cout<<"The sum of Row "<<cIndex<<" is: "<<sum<<endl; 
     return 0;
 }
